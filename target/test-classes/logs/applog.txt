@@ -1,0 +1,2 @@
+INFO    2023-04-09 18:56:06,632 [main] base.BaseTest  - Config prpoerties loaded !!
+INFO    2023-04-09 18:56:06,651 [main] base.BaseTest  - OR prpoerties loaded !!
